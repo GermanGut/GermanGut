@@ -1,4 +1,4 @@
-### Hola Soy German Gutierrez 👋
+### Hi! I am German Gutierrez 👋
 
 <!--
 **GermanGut/GermanGut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
